@@ -1,0 +1,15 @@
+.odd-elements {
+    background-color: #ffc0cb;
+    font-family: Verdana, sans-serif;
+}
+.font-24 {
+    font-size: 24px;
+}
+#blue-36 {
+    font-size: 36px;
+    color: #0000FF;
+}
+#bold-green {
+    background-color: #90EE90;
+    font-weight: bold;
+}
